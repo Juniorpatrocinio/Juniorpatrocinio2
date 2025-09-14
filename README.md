@@ -9,11 +9,11 @@ Me chamo Patrocinio junior, tenho 33 anos e sou natural do Amazonas e atulamente
     <a href="https://www.youtube.com/patrociniotecnicojogoseca6516">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBtIhcy8RWhCMdYMaPVEHWg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@patrociniotecnicojogoseca6516">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
