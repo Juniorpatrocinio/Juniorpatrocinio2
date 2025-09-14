@@ -6,7 +6,7 @@
 Me chamo Patrocinio junior, tenho 33 anos e sou natural do Amazonas e atulamente morando em curitiba. Atualmente, estou cursando Superior de  Análise e Desenvolvimento de Sistemas na Positivo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Patrocinio junior tecnico e analista ](https://www.youtube.com/results?search_query=patrocinio+junior+tecnico)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[(https://www.instagram.com/juninho26123/)".
 
 <p align="left">
-    <a href="[https://www.youtube.com](https://www.youtube.com/@patrociniotecnicojogoseca6516)">
+    <a href="https://www.youtube.com/@patrociniotecnicojogoseca6516">
         <img 
             alt="youtube subscribers" 
             title="Youtube" 
